@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F168DF20-9F29-4CC7-91FB-FE264C7C8C1F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Gest_LocFilm</RootNamespace>
+    <AssemblyName>Gest_LocFilm</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DbLocFilmDataSet.cs">
+      <DependentUpon>DbLocFilmDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DbLocFilmDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DbLocFilmDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Etat Adhérent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Etat Adhérent.Designer.cs">
+      <DependentUpon>Etat Adhérent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionFilm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionFilm.Designer.cs">
+      <DependentUpon>GestionFilm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestLocF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestLocF.Designer.cs">
+      <DependentUpon>GestLocF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Maj_RetFilm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maj_RetFilm.Designer.cs">
+      <DependentUpon>Maj_RetFilm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Visual_Film.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visual_Film.Designer.cs">
+      <DependentUpon>Visual_Film.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisuFilmLouer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisuFilmLouer.Designer.cs">
+      <DependentUpon>VisuFilmLouer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisuFilNRet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisuFilNRet.Designer.cs">
+      <DependentUpon>VisuFilNRet.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Etat Adhérent.resx">
+      <DependentUpon>Etat Adhérent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilmNonRet.rdlc" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionFilm.resx">
+      <DependentUpon>GestionFilm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestLocF.resx">
+      <DependentUpon>GestLocF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LocationFilm.rdlc" />
+    <EmbeddedResource Include="Maj_RetFilm.resx">
+      <DependentUpon>Maj_RetFilm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Visual_Film.resx">
+      <DependentUpon>Visual_Film.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisuFilmLouer.resx">
+      <DependentUpon>VisuFilmLouer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisuFilNRet.resx">
+      <DependentUpon>VisuFilNRet.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="CrystalReport1.mht" />
+    <None Include="DbLocFilmDataSet.xsc">
+      <DependentUpon>DbLocFilmDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DbLocFilmDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DbLocFilmDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DbLocFilmDataSet.xss">
+      <DependentUpon>DbLocFilmDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

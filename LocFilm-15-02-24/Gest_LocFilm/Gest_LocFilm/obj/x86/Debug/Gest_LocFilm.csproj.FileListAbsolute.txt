@@ -1,0 +1,44 @@
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\bin\Debug\Gest_LocFilm.exe
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\bin\Debug\Gest_LocFilm.pdb
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.Form1.resources
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.Properties.Resources.resources
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.csproj.GenerateResource.Cache
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.exe
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.pdb
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\bin\Debug\Gest_LocFilm.exe.config
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.GestionFilm.resources
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.GestLocF.resources
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.csprojResolveAssemblyReference.cache
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.Maj_RetFilm.resources
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.Menu.resources
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.Etat_Adhérent.resources
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\RdlCompile.cache
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\RdlCompile.compiled
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.Visual_Film.resources
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.VisuFilmLouer.resources
+E:\DevCharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.VisuFilNRet.resources
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\bin\Debug\Gest_LocFilm.exe.config
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.exe
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.pdb
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\bin\Debug\Gest_LocFilm.exe
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\bin\Debug\Gest_LocFilm.pdb
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.csprojResolveAssemblyReference.cache
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.Etat_Adhérent.resources
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.Form1.resources
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.GestionFilm.resources
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.GestLocF.resources
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.Maj_RetFilm.resources
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.Menu.resources
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.Properties.Resources.resources
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.Visual_Film.resources
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.VisuFilmLouer.resources
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.VisuFilNRet.resources
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.csproj.GenerateResource.Cache
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\RdlCompile.cache
+F:\devcharp\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Zaine\Desktop\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\bin\Debug\Gest_LocFilm.exe.config
+C:\Users\Zaine\Desktop\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.exe
+C:\Users\Zaine\Desktop\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.pdb
+C:\Users\amine\Desktop\aziz info\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\bin\Debug\Gest_LocFilm.exe.config
+C:\Users\amine\Desktop\aziz info\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.exe
+C:\Users\amine\Desktop\aziz info\LocFilm-15-02-24\Gest_LocFilm\Gest_LocFilm\obj\x86\Debug\Gest_LocFilm.pdb
